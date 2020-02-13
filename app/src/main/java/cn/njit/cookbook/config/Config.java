@@ -1,11 +1,5 @@
 package cn.njit.cookbook.config;
 
-/**
- * 作者：赵若位
- * 时间：2018/3/27 17:08
- * 邮箱：1070138445@qq.com
- * 功能：
- */
 
 public class Config
 {
